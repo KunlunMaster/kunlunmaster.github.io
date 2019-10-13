@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Kunlun Master Homepage
+
+开始啦！
 
 You can use the [editor on GitHub](https://github.com/KunlunMaster/kunlunmaster.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
